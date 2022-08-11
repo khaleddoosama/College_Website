@@ -1,0 +1,3 @@
+﻿  college website.cpp
+C:\Users\lenovo\source\repos\college website\college website\college website.cpp(390,22): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  college website.vcxproj -> C:\Users\lenovo\source\repos\college website\x64\Debug\college website.exe
